@@ -102,3 +102,9 @@ footer {
 .tech-image {
     width: 100%;
 }
+
+figcaption{
+        font-style: italic;
+        font-size: 1.417em;
+        margin: 0.7em 1em;
+}
