@@ -1,0 +1,146 @@
+.breadcrumb-nav {
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid var(--light-grey);
+}
+
+.detail-details {
+    padding-top: 15px;
+    float: left;
+    margin-right: 30px;
+    background-color: #401B13;
+    max-width: 52%;
+    border-radius: .5em;
+}
+
+.details-image {
+    width: 45%;
+    height: 360px;
+    margin-left: 0;
+    margin-top: 5px;
+    padding: 15px;
+    background-color: #401B13;
+    border-radius: .5em;
+}
+
+.image-column-1{
+    width: 7%;
+    margin: 0;
+    float: left;
+}
+.image-column-3{
+    width: 7%;
+    margin: 0;
+    float: left;
+}
+.detail-title{
+    max-width: 50%;
+}
+.arrow-icons{
+    max-width: 60%;
+    margin-top: 28vh;
+}
+.arrow-icon-2{
+    max-width: 60%;
+    margin-top: 20vh;
+}
+
+.orientation-image {
+    max-width: 150px;
+    display: inline;
+    padding: 0 5px;
+    margin-left: 35px;
+    margin-top: 35px;
+    margin-right: 0;
+}
+
+.button-buy{
+    width: 360px;
+    height: 150px;
+    display: inline-flex;
+    margin-top:0;
+    margin-left: 100px;
+}
+
+.image-column-2{
+    width: 75%;
+    margin: 1px;
+    float: left;
+    margin-top: 35px;
+}
+
+.value {
+    color: white;
+    font-size: 1em;
+    font-style: italic;
+}
+.detail-prod-h1{
+    color: blanchedalmond;
+    margin-left: 15px;
+}
+.detail-h1{
+    padding-top: 0;
+    color:#401B13;
+    font-size: 3.6em;
+    margin-bottom: 0;
+}
+.detail-h2{
+    font-size: 1.4em;
+    padding-top: 0;
+    color: white;
+    margin-bottom:1.5rem;
+}
+
+    .detail-container {
+        display: inline;
+    }
+
+    .detail-image {
+        margin-left: 0;
+        transform: translateX(0);
+    }
+
+    
+    .detail-details {
+        padding-top: 0;
+        padding-left: 15px;
+        display:inline-block;
+        width: 600px;
+        float:right;
+        margin-right: 15px;
+    }
+
+.hidden {
+    display: none;
+}
+
+.orientation{
+    display: inline-flex;
+    margin-left: 10%;
+    height: 150px;
+    margin-top: 150px;
+}
+
+.orientation-1{
+    border-bottom: #401B13 solid 15px;
+}
+
+.orientation-2{
+    transform: rotateY(60deg);
+}
+
+.orientation-3{
+    transform: rotateY(120deg);
+}
+
+.orientation-4{
+    transform: rotateY(240deg);
+}
+
+.detail-h2{
+    margin-top: 1em;
+    font-size: 1.5em;
+    padding: 15px;
+    margin-bottom: 0;
+    height: fit-content;
+}
